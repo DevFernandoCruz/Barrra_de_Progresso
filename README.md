@@ -4,9 +4,9 @@
 
 ## 📕 Projeto / Project
 
-<p>Formulario para preenchimento de login e senha </p>
+<p>Barra de indicação de progresso </p>
 
-<p>Form to fill in login and password</p>
+<p>Progress indication bar</p>
 
 <br></br>
 ## 🛠️ Ferramentas / Tools
